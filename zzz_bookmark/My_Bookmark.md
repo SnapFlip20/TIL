@@ -14,6 +14,10 @@
 * 학습에 실패한 이야기 / https://woowabros.github.io/experience/2017/12/11/how-to-study.html
 </br>
 
+## 검색을 잘하는 능력
+* 개발자를 위한 정보 검색 팁 https://boxnwhis.kr/2020/09/27/ir-for-developers.html
+</br>
+
 ## 일일커밋과 TIL
 * 6개월간의 TIL 회고 (꾸준히 하면 좋은 일이 생긴다) / https://wayhome25.github.io/til/2017/08/14/TIL-for-6-months/
 * TIL을 1년동안 진행하며 / https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/
