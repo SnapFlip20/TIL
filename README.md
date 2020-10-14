@@ -1,6 +1,6 @@
 # Today I Learned(TIL)
-본인([SnapFlip20](https://github.com/SnapFlip20))이 오늘 새로 알게 된 것을 기록해 두는 곳입니다.</br>
-마지막으로 수정한 날짜: 2020-10-2
+본인([SnapFlip20](https://github.com/SnapFlip20))이 오늘 새로 알게 된 것을 기록해 두는 곳입니다.
+</br>
 
 # Rules
 TIL 작성 시 지킬 규칙은 다음과 같습니다.
