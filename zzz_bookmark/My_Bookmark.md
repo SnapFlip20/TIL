@@ -8,12 +8,16 @@
 </br>
 
 ## GitHub 사용
+* How To Create A GitHub Profile README / https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme#fun-readmes
+* How to Write a Git Commit Message / [원문](https://chris.beams.io/posts/git-commit/) / [번역](https://meetup.toast.com/posts/106)
 * 6개월간의 TIL 회고 (꾸준히 하면 좋은 일이 생긴다) / https://wayhome25.github.io/til/2017/08/14/TIL-for-6-months/
 * TIL을 1년동안 진행하며 / https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/
 * 깃허브(GitHub)로 취업하기 / https://sujinlee.me/professional-github/
 * 신입 개발자의 1일 1커밋 1년 회고 / https://hyanghope.tistory.com/550
 * 일일 커밋 / https://blog.outsider.ne.kr/1141
 * 일일커밋(Daily Commit) – 1년 회고 / https://milooy.wordpress.com/2016/07/02/daily-commit-1-year/
+* 一年間githubに草を生やそうと思ったが251日で途絶えた話 / https://www.tomatoaiu.com/entry/2018/12/11/125302
+* ギットハブで草を生やし続けるためのコツ：目的編 / https://findy-code.io/engineer-lab/github-kusa-kotsu-mokuteki
 </br>
 
 ## Python
@@ -33,4 +37,5 @@
 * 개발자를 위한 정보 검색 팁 / https://boxnwhis.kr/2020/09/27/ir-for-developers.html
 </br>
 
-
+## 자료구조와 알고리즘
+</br>
