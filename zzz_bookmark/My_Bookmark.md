@@ -2,9 +2,10 @@
 * 이 문서는 제가 개발 공부를 하면서 도움이 되었던 글, 나중에 읽어볼 글들을 모아둔 웹 브라우저의 즐겨찾기와 같은 곳이며, 그 이외의 의도는 없음을 알려드립니다.
 혹시 본인이 작성한 글이 이 문서에 포함되어 있는 것을 원치 않으시다면, 제 이메일로 연락해주세요. 빠른 시일 내에 삭제하도록 하겠습니다.</br>
 마지막으로 수정한 날짜: 2020-10-13
-* 항목 별 정렬 기준은 숫자 -> 영어(a~z) -> 한글(ㄱ->ㅎ) -> 그 외의 언어
+* 항목 별 정렬 기준은 숫자 -> 영어(a~z) -> 한글(ㄱ~ㅎ) -> 그 외의 언어
 * 이 문서 작성에 많은 도움이 된 글
   * 고퀄리티 개발 컨텐츠 모음 / https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/
+  * 카카오톡 오픈채팅방 '{ 출퇴근길 개발 읽기 }'
 </br>
 
 ## GitHub 사용
@@ -20,12 +21,16 @@
 * ギットハブで草を生やし続けるためのコツ：目的編 / https://findy-code.io/engineer-lab/github-kusa-kotsu-mokuteki
 </br>
 
+## Problem Solving
+* 알고리즘 공부, 어떻게 해야하나요? / https://baactree.tistory.com/52
+* 자주 틀리는 이유 / https://stack.news/2020/10/17/%ec%9e%90%ec%a3%bc-%ed%8b%80%eb%a6%ac%eb%8a%94-%ec%9d%b4%ec%9c%a0/
+
 ## Python
 * Hidden features of Python / https://stackoverflow.com/questions/101268/hidden-features-of-python
 * 파이썬을 배우는 최고의 방법 / https://nolboo.kim/blog/2014/08/10/the-best-way-to-learn-python/
 </br>
 
-## 개발자가 가져야 할 자세
+## 개발자의 삶
 * [번역] 2017년 개발자 이력서 작성 가이드 / https://brunch.co.kr/@imagineer/215 <!-- 원문이 삭제되어 번역본으로 대체합니다. -->
 * 나는 어떻게 개발 공부를 했나,(1편~2편) / https://jbee.io/essay/how_do_i_study_1/
 * 질문을 잘하는 개발자 / https://jbee.io/essay/good_questionor/
@@ -37,5 +42,4 @@
 * 개발자를 위한 정보 검색 팁 / https://boxnwhis.kr/2020/09/27/ir-for-developers.html
 </br>
 
-## 자료구조와 알고리즘
-</br>
+
