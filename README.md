@@ -1,6 +1,8 @@
 # Today I Learned(TIL)
 본인([SnapFlip20](https://github.com/SnapFlip20))이 오늘 새로 알게 된 것들을 기록해 두는 곳입니다.
 </br>
+개인 블로그 제작이 완성되면 일부 내용은 블로그로 옮겨질 예정입니다.
+</br>
 
 # Rules
 TIL 작성 시 지킬 규칙은 다음과 같습니다.
