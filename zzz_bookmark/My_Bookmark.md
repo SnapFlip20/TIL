@@ -14,6 +14,7 @@
 * 6개월간의 TIL 회고 (꾸준히 하면 좋은 일이 생긴다) / https://wayhome25.github.io/til/2017/08/14/TIL-for-6-months/
 * TIL을 1년동안 진행하며 / https://junwoo45.github.io/2019-09-10-til_%ED%9B%84%EA%B8%B0/
 * 깃허브(GitHub)로 취업하기 / https://sujinlee.me/professional-github/
+* 당신의 GitHub을 매력적으로 보일 수 있는 방법들 / https://geonlee.tistory.com/206
 * 신입 개발자의 1일 1커밋 1년 회고 / https://hyanghope.tistory.com/550
 * 일일 커밋 / https://blog.outsider.ne.kr/1141
 * 일일커밋(Daily Commit) – 1년 회고 / https://milooy.wordpress.com/2016/07/02/daily-commit-1-year/
