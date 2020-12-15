@@ -33,17 +33,15 @@
 
 ## 개발자 팁
 * [번역] 2017년 개발자 이력서 작성 가이드 / https://brunch.co.kr/@imagineer/215 <!-- 원문이 삭제되어 번역본으로 대체합니다. -->
+* 개발자를 위한 정보 검색 팁 / https://boxnwhis.kr/2020/09/27/ir-for-developers.html
 * 나는 어떻게 개발 공부를 했나,(1편~2편) / https://jbee.io/essay/how_do_i_study_1/
 * 누구나 원하는 개발자되기 / https://blog.shiren.dev/2020-11-23/
+* 야, 너두 개발자 포트폴리오 만들 수 있어 / https://geonlee.tistory.com/9
 * 우리는 코드 리뷰를 잘하고 있을까요? / https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d
 * 주니어 개발자들의 (얕은) 코드리뷰 도입기 / https://shinsunyoung.tistory.com/92
 * 질문을 잘하는 개발자 / https://jbee.io/essay/good_questionor/
 * [포트폴리오・이력서] 개발자의 포트폴리오・이력서 작성법, 면접을 잘 보는 법 / https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html
 * 학습에 실패한 이야기 / https://woowabros.github.io/experience/2017/12/11/how-to-study.html
-</br>
-
-## 검색을 잘하는 능력
-* 개발자를 위한 정보 검색 팁 / https://boxnwhis.kr/2020/09/27/ir-for-developers.html
 </br>
 
 
